@@ -1,1 +1,71 @@
-J3VzZSBzdHJpY3QnOwpjb25zdCB0b2dnbGUgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcubWVudS10b2dnbGUnKTsKY29uc3QgbmF2aWdhdGlvbiA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNuYXZpZ2F0aW9uJyk7CnRvZ2dsZS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsICgpID0+IHsKICBjb25zdCBvcGVuID0gdG9nZ2xlLmdldEF0dHJpYnV0ZSgnYXJpYS1leHBhbmRlZCcpICE9PSAndHJ1ZSc7CiAgdG9nZ2xlLnNldEF0dHJpYnV0ZSgnYXJpYS1leHBhbmRlZCcsIFN0cmluZyhvcGVuKSk7CiAgbmF2aWdhdGlvbi5jbGFzc0xpc3QudG9nZ2xlKCdvcGVuJywgb3Blbik7Cn0pOwpuYXZpZ2F0aW9uLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgZSA9PiB7CiAgaWYgKGUudGFyZ2V0LmNsb3Nlc3QoJ2EnKSkgeyB0b2dnbGUuc2V0QXR0cmlidXRlKCdhcmlhLWV4cGFuZGVkJywnZmFsc2UnKTsgbmF2aWdhdGlvbi5jbGFzc0xpc3QucmVtb3ZlKCdvcGVuJyk7IH0KfSk7CmRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ2tleWRvd24nLCBlID0+IHsKICBpZihlLmtleT09PSdFc2NhcGUnICYmIHRvZ2dsZS5nZXRBdHRyaWJ1dGUoJ2FyaWEtZXhwYW5kZWQnKT09PSd0cnVlJykgewogICAgdG9nZ2xlLnNldEF0dHJpYnV0ZSgnYXJpYS1leHBhbmRlZCcsJ2ZhbHNlJyk7IG5hdmlnYXRpb24uY2xhc3NMaXN0LnJlbW92ZSgnb3BlbicpOyB0b2dnbGUuZm9jdXMoKTsKICB9Cn0pOwpjb25zdCBjYXJkcyA9IFsuLi5kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcucGxhbltkYXRhLW9mZmVyXScpXTsKY29uc3QgbmVlZCA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNuZWVkJyk7CmNvbnN0IG1vdGlvblByZWZlcmVuY2UgPSB3aW5kb3cubWF0Y2hNZWRpYSgnKHByZWZlcnMtcmVkdWNlZC1tb3Rpb246IHJlZHVjZSknKTsKZnVuY3Rpb24gc2VsZWN0T2ZmZXIodmFsdWUsIHVwZGF0ZUZvcm0gPSB0cnVlKSB7CiAgY2FyZHMuZm9yRWFjaChjYXJkID0+IHsKICAgIGNvbnN0IHNlbGVjdGVkID0gY2FyZC5kYXRhc2V0Lm9mZmVyID09PSB2YWx1ZTsKICAgIGNhcmQuY2xhc3NMaXN0LnRvZ2dsZSgnaXMtc2VsZWN0ZWQnLCBzZWxlY3RlZCk7CiAgICBjYXJkLnF1ZXJ5U2VsZWN0b3IoJy5wbGFuLWNob2ljZScpLmNoZWNrZWQgPSBzZWxlY3RlZDsKICB9KTsKICBpZiAodXBkYXRlRm9ybSkgbmVlZC52YWx1ZSA9IHZhbHVlOwp9CnNlbGVjdE9mZmVyKCdDcm9pc3NhbmNlJyk7CmNhcmRzLmZvckVhY2goY2FyZCA9PiB7CiAgY2FyZC5xdWVyeVNlbGVjdG9yKCcucGxhbi1jaG9pY2UnKS5hZGRFdmVudExpc3RlbmVyKCdjaGFuZ2UnLCAoKSA9PiBzZWxlY3RPZmZlcihjYXJkLmRhdGFzZXQub2ZmZXIpKTsKICBjYXJkLnF1ZXJ5U2VsZWN0b3IoJy5wbGFuLWxpbmsnKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsICgpID0+IHNlbGVjdE9mZmVyKGNhcmQuZGF0YXNldC5vZmZlcikpOwogIGNhcmQuYWRkRXZlbnRMaXN0ZW5lcigncG9pbnRlcm1vdmUnLCBlID0+IHsKICAgIGlmIChlLnBvaW50ZXJUeXBlICE9PSAnbW91c2UnIHx8IG1vdGlvblByZWZlcmVuY2UubWF0Y2hlcykgcmV0dXJuOwogICAgY29uc3QgciA9IGNhcmQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCk7CiAgICBjb25zdCB4ID0gKGUuY2xpZW50WCAtIHIubGVmdCkgLyByLndpZHRoIC0gLjU7CiAgICBjb25zdCB5ID0gKGUuY2xpZW50WSAtIHIudG9wKSAvIHIuaGVpZ2h0IC0gLjU7CiAgICBjYXJkLnN0eWxlLnNldFByb3BlcnR5KCctLXRpbHQteCcsIGAkey15ICogN31kZWdgKTsKICAgIGNhcmQuc3R5bGUuc2V0UHJvcGVydHkoJy0tdGlsdC15JywgYCR7eCAqIDd9ZGVnYCk7CiAgfSk7CiAgY2FyZC5hZGRFdmVudExpc3RlbmVyKCdwb2ludGVybGVhdmUnLCAoKSA9PiB7CiAgICBjYXJkLnN0eWxlLnNldFByb3BlcnR5KCctLXRpbHQteCcsICcwZGVnJyk7CiAgICBjYXJkLnN0eWxlLnNldFByb3BlcnR5KCctLXRpbHQteScsICcwZGVnJyk7CiAgfSk7Cn0pOwpuZWVkLmFkZEV2ZW50TGlzdGVuZXIoJ2NoYW5nZScsICgpID0+IHNlbGVjdE9mZmVyKG5lZWQudmFsdWUsIGZhbHNlKSk7CmNvbnN0IGZvcm0gPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjY29udGFjdC1mb3JtJyk7CmZvcm0uYWRkRXZlbnRMaXN0ZW5lcignc3VibWl0JywgZSA9PiB7CiAgZS5wcmV2ZW50RGVmYXVsdCgpOwogIGlmICghZm9ybS5yZXBvcnRWYWxpZGl0eSgpKSByZXR1cm47CiAgY29uc3QgZGF0YSA9IG5ldyBGb3JtRGF0YShmb3JtKTsKICBjb25zdCBuYW1lID0gU3RyaW5nKGRhdGEuZ2V0KCduYW1lJykpLnRyaW0oKTsKICBjb25zdCBlbWFpbCA9IFN0cmluZyhkYXRhLmdldCgnZW1haWwnKSkudHJpbSgpOwogIGNvbnN0IG5lZWQgPSBTdHJpbmcoZGF0YS5nZXQoJ25lZWQnKSkudHJpbSgpOwogIGNvbnN0IG1lc3NhZ2UgPSBTdHJpbmcoZGF0YS5nZXQoJ21lc3NhZ2UnKSkudHJpbSgpOwogIGlmICghbmFtZSB8fCAhbWVzc2FnZSkgewogICAgY29uc3QgZmllbGQgPSAhbmFtZSA/IGZvcm0uZWxlbWVudHMubmFtZSA6IGZvcm0uZWxlbWVudHMubWVzc2FnZTsKICAgIGZpZWxkLnNldEN1c3RvbVZhbGlkaXR5KCdWZXVpbGxleiByZW5zZWlnbmVyIGNlIGNoYW1wLicpO2ZpZWxkLnJlcG9ydFZhbGlkaXR5KCk7CiAgICBmaWVsZC5hZGRFdmVudExpc3RlbmVyKCdpbnB1dCcsKCk9PmZpZWxkLnNldEN1c3RvbVZhbGlkaXR5KCcnKSx7b25jZTp0cnVlfSk7cmV0dXJuOwogIH0KICBjb25zdCBzdWJqZWN0ID0gYERlbWFuZGUgQS5EQ09NJHtuZWVkID8gJyDigJQgJytuZWVkIDogJyd9YDsKICBjb25zdCBib2R5ID0gYEJvbmpvdXIgQS5EQ09NLFxuXG4ke21lc3NhZ2V9XG5cbk5vbSA6ICR7bmFtZX1cbkUtbWFpbCA6ICR7ZW1haWx9XG5CZXNvaW4gOiAke25lZWQgfHwgJ8OAIGTDqWZpbmlyJ31cbmA7CiAgY29uc3QgbWFpbHRvID0gYG1haWx0bzpwYXJ0ZW5hcmlhdGFkY29tQG91dGxvb2suY29tP3N1YmplY3Q9JHtlbmNvZGVVUklDb21wb25lbnQoc3ViamVjdCl9JmJvZHk9JHtlbmNvZGVVUklDb21wb25lbnQoYm9keSl9YDsKICBjb25zdCBzdGF0dXMgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjZm9ybS1zdGF0dXMnKTsKICBzdGF0dXMucmVwbGFjZUNoaWxkcmVuKCk7CiAgY29uc3QgdGV4dCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3AnKTsKICB0ZXh0LnRleHRDb250ZW50ID0gJ1ZvdHJlIGRlbWFuZGUgZXN0IHByw6p0ZS4gVmFsaWRleiBzb24gZW52b2kgZGFucyB2b3RyZSBtZXNzYWdlcmllLiBSaWVuIG7igJlhIGVuY29yZSDDqXTDqSBlbnZvecOpIHBhciBjZSBzaXRlLic7CiAgY29uc3QgcmV0cnkgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdhJyk7cmV0cnkuaHJlZj1tYWlsdG87cmV0cnkudGV4dENvbnRlbnQ9J091dnJpciDDoCBub3V2ZWF1IG1hIG1lc3NhZ2VyaWUnOwogIGNvbnN0IGFsdGVybmF0ZSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2EnKTthbHRlcm5hdGUuaHJlZj1gaHR0cHM6Ly93YS5tZS8yMjE3ODY2NTA2OTM/dGV4dD0ke2VuY29kZVVSSUNvbXBvbmVudChib2R5KX1gO2FsdGVybmF0ZS50YXJnZXQ9J19ibGFuayc7YWx0ZXJuYXRlLnJlbD0nbm9vcGVuZXIgbm9yZWZlcnJlcic7YWx0ZXJuYXRlLnRleHRDb250ZW50PSdDb250aW51ZXIgc3VyIFdoYXRzQXBwJzsKICBzdGF0dXMuYXBwZW5kKHRleHQscmV0cnksZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnYnInKSxhbHRlcm5hdGUpO3N0YXR1cy5oaWRkZW49ZmFsc2U7CiAgd2luZG93LmxvY2F0aW9uLmhyZWY9bWFpbHRvOwp9KTsK
+'use strict';
+const toggle = document.querySelector('.menu-toggle');
+const navigation = document.querySelector('#navigation');
+toggle.addEventListener('click', () => {
+  const open = toggle.getAttribute('aria-expanded') !== 'true';
+  toggle.setAttribute('aria-expanded', String(open));
+  navigation.classList.toggle('open', open);
+});
+navigation.addEventListener('click', e => {
+  if (e.target.closest('a')) { toggle.setAttribute('aria-expanded','false'); navigation.classList.remove('open'); }
+});
+document.addEventListener('keydown', e => {
+  if(e.key==='Escape' && toggle.getAttribute('aria-expanded')==='true') {
+    toggle.setAttribute('aria-expanded','false'); navigation.classList.remove('open'); toggle.focus();
+  }
+});
+const cards = [...document.querySelectorAll('.plan[data-offer]')];
+const need = document.querySelector('#need');
+const motionPreference = window.matchMedia('(prefers-reduced-motion: reduce)');
+function selectOffer(value, updateForm = true) {
+  cards.forEach(card => {
+    const selected = card.dataset.offer === value;
+    card.classList.toggle('is-selected', selected);
+    card.querySelector('.plan-choice').checked = selected;
+  });
+  if (updateForm) need.value = value;
+}
+selectOffer('Croissance');
+cards.forEach(card => {
+  card.querySelector('.plan-choice').addEventListener('change', () => selectOffer(card.dataset.offer));
+  card.querySelector('.plan-link').addEventListener('click', () => selectOffer(card.dataset.offer));
+  card.addEventListener('pointermove', e => {
+    if (e.pointerType !== 'mouse' || motionPreference.matches) return;
+    const r = card.getBoundingClientRect();
+    const x = (e.clientX - r.left) / r.width - .5;
+    const y = (e.clientY - r.top) / r.height - .5;
+    card.style.setProperty('--tilt-x', `${-y * 7}deg`);
+    card.style.setProperty('--tilt-y', `${x * 7}deg`);
+  });
+  card.addEventListener('pointerleave', () => {
+    card.style.setProperty('--tilt-x', '0deg');
+    card.style.setProperty('--tilt-y', '0deg');
+  });
+});
+need.addEventListener('change', () => selectOffer(need.value, false));
+const form = document.querySelector('#contact-form');
+form.addEventListener('submit', e => {
+  e.preventDefault();
+  if (!form.reportValidity()) return;
+  const data = new FormData(form);
+  const name = String(data.get('name')).trim();
+  const email = String(data.get('email')).trim();
+  const need = String(data.get('need')).trim();
+  const message = String(data.get('message')).trim();
+  if (!name || !message) {
+    const field = !name ? form.elements.name : form.elements.message;
+    field.setCustomValidity('Veuillez renseigner ce champ.');field.reportValidity();
+    field.addEventListener('input',()=>field.setCustomValidity(''),{once:true});return;
+  }
+  const subject = `Demande A.DCOM${need ? ' — '+need : ''}`;
+  const body = `Bonjour A.DCOM,\n\n${message}\n\nNom : ${name}\nE-mail : ${email}\nBesoin : ${need || 'À définir'}\n`;
+  const mailto = `mailto:partenariatadcom@outlook.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  const status = document.querySelector('#form-status');
+  status.replaceChildren();
+  const text = document.createElement('p');
+  text.textContent = 'Votre demande est prête. Validez son envoi dans votre messagerie. Rien n’a encore été envoyé par ce site.';
+  const retry = document.createElement('a');retry.href=mailto;retry.textContent='Ouvrir à nouveau ma messagerie';
+  const alternate = document.createElement('a');alternate.href=`https://wa.me/221786650693?text=${encodeURIComponent(body)}`;alternate.target='_blank';alternate.rel='noopener noreferrer';alternate.textContent='Continuer sur WhatsApp';
+  status.append(text,retry,document.createElement('br'),alternate);status.hidden=false;
+  window.location.href=mailto;
+});

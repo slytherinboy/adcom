@@ -1,1 +1,8 @@
-LyoKICBYLUNvbnRlbnQtVHlwZS1PcHRpb25zOiBub3NuaWZmCiAgUmVmZXJyZXItUG9saWN5OiBzdHJpY3Qtb3JpZ2luLXdoZW4tY3Jvc3Mtb3JpZ2luCiAgWC1GcmFtZS1PcHRpb25zOiBERU5ZCiAgUGVybWlzc2lvbnMtUG9saWN5OiBjYW1lcmE9KCksIG1pY3JvcGhvbmU9KCksIGdlb2xvY2F0aW9uPSgpCiAgQ29udGVudC1TZWN1cml0eS1Qb2xpY3k6IGRlZmF1bHQtc3JjICdzZWxmJzsgaW1nLXNyYyAnc2VsZicgZGF0YTo7IGZvbnQtc3JjICdzZWxmJzsgc3R5bGUtc3JjICdzZWxmJzsgc2NyaXB0LXNyYyAnc2VsZic7IGJhc2UtdXJpICdzZWxmJzsgZnJhbWUtYW5jZXN0b3JzICdub25lJzsgb2JqZWN0LXNyYyAnbm9uZSc7IGZvcm0tYWN0aW9uICdub25lJwovYXNzZXRzLyoKICBDYWNoZS1Db250cm9sOiBwdWJsaWMsIG1heC1hZ2U9ODY0MDAK
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:; font-src 'self'; style-src 'self'; script-src 'self'; base-uri 'self'; frame-ancestors 'none'; object-src 'none'; form-action 'none'
+/assets/*
+  Cache-Control: public, max-age=86400
